@@ -120,3 +120,42 @@
 	font-size: 13px;
 	color: #A6ADB4;
 }
+/* SECTION 2 */
+.section2 {
+	padding-top: 58px;
+	margin-left: 140px;
+}
+.s2position {
+	padding-top: 40px;
+	position: relative;
+	display: inline-block;
+}
+.s2-left-block {
+	display: inline-block;
+	width: 760px;
+	height: 900px;
+}
+.s2inside {
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: bold;
+	display: inline-block;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.s2-left-block-image {
+	padding-top: 40px;
+}
+.s2-right-block {
+	vertical-align: bottom;
+	display: inline-block;
+	width: 360px;
+	height: 896px;
+	margin-left: 40px;
+}
+.middleimg {
+	padding-top: 102px;
+	padding-bottom: 102px;
+}
